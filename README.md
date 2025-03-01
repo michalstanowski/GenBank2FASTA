@@ -1,5 +1,3 @@
-# README
-
 ## GenBank to FASTA Converter
 
 This script processes GenBank Pept (.gp) files and converts them into the FASTA format (.fas). You can customize the output by specifying the format of the organism name, ID type, and whether to include detailed or additional information in the header. 
